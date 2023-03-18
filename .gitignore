@@ -1,0 +1,11 @@
+out/
+7B/
+13B/
+__pycache__/
+checkpoint**
+minimal-llama**
+upload.py
+lora-alpaca
+lora-alpaca-swedish
+lora-alpaca-swedish-large
+wandb
